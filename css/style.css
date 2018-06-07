@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -248,7 +248,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   #gtco-header.gtco-cover {
-    
+
     padding: 3em 0 !important;
   }
 }
@@ -1843,7 +1843,18 @@ form label {
     font-size: 26px;
   }
 }
+#outilsp{
+  text-align: left;
+  color: black;
+}
 
+/* .activites {
+  list-style-type: none;
+} */
+
+#activites {
+  text-align: left;
+}
 /*# sourceMappingURL=style.css.map */
 
 .logoIMG{
