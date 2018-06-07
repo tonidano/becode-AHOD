@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -1840,5 +1840,16 @@ form label {
     font-size: 26px;
   }
 }
+#outilsp{
+  text-align: left;
+  color: black;
+}
 
+/* .activites {
+  list-style-type: none;
+} */
+
+#activites {
+  text-align: left;
+}
 /*# sourceMappingURL=style.css.map */
