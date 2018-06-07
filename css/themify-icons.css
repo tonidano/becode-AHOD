@@ -113,8 +113,35 @@
 .ti-pencil-alt:before {
 	content: "\e61d";
 }
-.ti-paint-roller:before {
-	content: "\e61e";
+#iconique{
+	position:relative;
+	animation-name:drill;
+	animation-duration: 5s;
+	animation-timing-function: linear;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes drill{
+	0%{top:0px;}
+	25%{top:30px;}
+	50%{top:0px;}
+	75%{top:30px;}
+	100%{top:0px}
+}
+.don2:hover{
+	position:relative;
+	animation-name:drill2;
+	animation-duration:5s;
+	animation-delay:0s;
+	animation-iteration-count:infinite;
+}
+@keyframes drill2{
+	0%{top:0px;border:2px solid black;}
+	25%{top:0px;border:2px dashed black;}
+	50%{top:0px;border:2px solid red;}
+	75%{top:0px;border:2px dashed black;}
+	100%{top:0px;border:2px solid red;}
 }
 .ti-paint-bucket:before {
 	content: "\e61f";
