@@ -34,3 +34,6 @@ thursday 07/06/2018
 By github Page
 
 > https://tonidano.github.io/becode-AHOD/.
+
+## Audit
+[Test Lightouse](test-lighthouse.png)
