@@ -36,4 +36,4 @@ By github Page
 > https://tonidano.github.io/becode-AHOD/.
 
 ## Audit
-[Test Lightouse](test-lighthouse.png)
+![Test Lightouse](test-lighthouse.png)
